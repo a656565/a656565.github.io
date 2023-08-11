@@ -6,8 +6,3 @@ coverY: 0
 
 # 👋 欢迎！
 
-
-
-```autoit
-// Some code<script async data-id=“5577726648” id=“chatling-embed-script” type=“text/javascript” src=“https://chatling.ai/js/embed.js”></script>
-```
